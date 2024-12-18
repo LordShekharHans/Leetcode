@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/LordShekharHans/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/LordShekharHans/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/LordShekharHans/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2868-continuous-subarrays](https://github.com/LordShekharHans/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -53,4 +54,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/LordShekharHans/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2868-continuous-subarrays](https://github.com/LordShekharHans/Leetcode/tree/master/2868-continuous-subarrays) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/LordShekharHans/Leetcode/tree/master/2868-continuous-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/LordShekharHans/Leetcode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/LordShekharHans/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/LordShekharHans/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
