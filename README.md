@@ -100,8 +100,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/LordShekharHans/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/LordShekharHans/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/LordShekharHans/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/LordShekharHans/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Graph
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/LordShekharHans/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
