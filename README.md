@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/LordShekharHans/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/LordShekharHans/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/LordShekharHans/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2434-design-a-number-container-system](https://github.com/LordShekharHans/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/LordShekharHans/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/LordShekharHans/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/LordShekharHans/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/LordShekharHans/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/LordShekharHans/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
